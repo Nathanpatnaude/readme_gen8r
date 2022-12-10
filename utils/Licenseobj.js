@@ -1,5 +1,5 @@
 const LicenseOptions = [{
-    name: "None",
+    name: "none",
     abrv: "none",
     link: "none"
 },

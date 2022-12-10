@@ -1,10 +1,10 @@
-const Licensesobj = require('./utils/Licenseobj');
+const Licensesobj = require('./Licenseobj');
 
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license === "none") {
-    return "";
+    return ``;
   }
   else {
     return `![badge](https://img.shields.io/badge/license-${license}-brightgreen)
@@ -16,7 +16,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license === "none") {
-    return "";
+    return ``;
   }
   else {
     return `(${license})`
@@ -27,7 +27,7 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license === "none") {
-    return "No License was used.";
+    return `No License was used.`;
   }
   else {
     return `This application is covered by the [${license}]`
