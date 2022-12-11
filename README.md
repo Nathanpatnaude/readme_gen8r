@@ -6,7 +6,7 @@
 A node.js application that prompts used from inquirer to write a README.md file for user:</br>- Title</br>- Description</br>- Installation instructions</br>- Usage information</br>- Contribution guidelines</br>- Test instructions</br>- License(list of options)
 
 
- The README.md file is generated with the user input and created into [.dist/README.md](.dist/README.md)</br>![README Gen8r](./src/Readmegen8r.gif)</br>[The file showing full functionality of the application](./src/ReadmeGen8rLive.mp4)  
+ The README.md file is generated with the user input and created into [.dist/README.md](.dist/README.md)</br>![README Gen8r](./src/Readmegen8r.gif)</br>[The file showing full functionality of the application](./src/READMEgen8rlive.mp4)  
   
 ## Table of Contents
 - [Description](#description)

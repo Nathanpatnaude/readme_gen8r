@@ -2,7 +2,9 @@
   ![badge](https://img.shields.io/badge/license-mit-brightgreen)
     
   ## Description
-  A node.js application that prompts used from inquirer to write a README.md file for user:</br>- Title</br>- Description</br>- Installation instructions</br>- Usage information</br>- Contribution guidelines</br>- Test instructions</br>- License(list of options)</br>
+
+  A node.js application that prompts used from inquirer to write a README.md file for user:</br>- Title</br>- Description</br>- Installation instructions</br>- Usage information</br>- Contribution guidelines</br>- Test instructions</br>- License(list of options)
+
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -11,24 +13,30 @@
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
+
   ## Installation
-  Run the following commands at the project root directory.</br></br>- `npm init`</br>- `npm install inquirer`</br>
+  Run the following commands at the project root directory.</br></br>- `npm init`</br>- `npm install inquirer`
+
   ## Usage
-  Run the following commands at the project root directory</br></br>`node index.js`</br></br>The README.md file is generated with the user input and created into [.dist/README.md](.dist/README.md)</br>
+  Run the following commands at the project root directory</br></br>`node index.js`</br></br>The README.md file is generated with the user input and created into [.dist/README.md](.dist/README.md)
+
   ## License
   ![badge](https://img.shields.io/badge/license-mit-brightgreen)
     
   This application is covered by the [MIT License](https://choosealicense.com/licenses/mit/). 
+
   ## Contributing
   Nathan Patnaude
-  ## Tests
-  No tests included.</br>
-  ## Questions
-  
 
-  Find more info on GitHub: [Nathanpatnaude](https://github.com/nathanpatnaude)
+  ## Tests
+  No tests included.
+
+  ## Questions
+
+
+  Find more info on GitHub: [Nathanpatnaude](https://github.com/Nathanpatnaude)
   
-  Email with any questions: [Nathanpatnaude@gmail.com](mailto:nathanpatnaude@gmail.com)
+  Email with any questions: [Nathanpatnaude@gmail.com](mailto:Nathanpatnaude@gmail.com)
 
 
 
